@@ -1,0 +1,2 @@
+- 👋 Hi, I’m Sandor
+- 👀 I’m interested in web development
